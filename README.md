@@ -2,6 +2,9 @@
 Just a collection of config files for my Fedora setup
 
 # Fancontrol
+Currently my fancontrol setup is configured to let all fans spin, when the cpu temperature is equal or greather than 30 degrees.
+This way, less heavy stuff can be performed on my machine in silence...
+
 ### Prerequisites
 * lm-sensors
 * pwmconfig
